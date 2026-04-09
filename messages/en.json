@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "home": {
+    "badge": "Ethereal Gallery Concept",
+    "title": "Ethereal Space",
+    "subtitle": "Creating meaningful digital experiences through structural honesty and vast negative space.",
+    "getStarted": "Get Started →",
+    "minimalismTitle": "Minimalism",
+    "minimalismText": "We believe in the power of less. By stripping away the non-essential, we allow the true character of your content to breathe.",
+    "precisionTitle": "Precision",
+    "precisionText": "Meticulous attention to typography and layout ensures every pixel serves a purpose in the digital landscape.",
+    "clarityTitle": "Clarity",
+    "clarityText": "Visual hierarchy isn't just about size—it's about guidance. We create paths that lead users naturally through information.",
+    "quote": "Design is not just what it looks like and feels like. Design is how it works."
+  },
+  "about": {
+    "badge": "Stories",
+    "title": "Our Story",
+    "subtitle": "Redefining digital experiences through the lens of intentionality and essentialism.",
+    "philosophyTitle": "A Minimalist Philosophy",
+    "p1": "At Alabaster Zen, we believe that the most powerful solutions are often the simplest ones. In an era of digital noise and constant distraction, we choose to speak through silence and space.",
+    "p2": "Our journey began with a simple observation: modern software often obscures utility with unnecessary complexity. We set out to strip away the vanity, leaving behind only the essential core.",
+    "p3": "We treat every interface like a gallery wall. Every element must earn its place. If it doesn't serve a purpose, it is gracefully removed.",
+    "readManifest": "Read our manifest →",
+    "coreTenetsTitle": "Core Tenets",
+    "coreTenetsSubtitle": "The principles that guide every pixel we place and every line of code we write.",
+    "spaceTitle": "Intentional Space",
+    "spaceText": "Negative space is not empty; it is a structural element that provides breathing room for the mind.",
+    "honestyTitle": "Structural Honesty",
+    "honestyText": "We never hide. Buttons look like buttons, and hierarchy is communicated through natural light and shadow.",
+    "harmonyTitle": "Tonal Harmony",
+    "harmonyText": "Our palettes are inspired by natural stone, light, and paper. Calm, sophisticated, and enduring.",
+    "curatorsTitle": "The Curators"
+  },
+  "contact": {
+    "badge": "Let's Connect",
+    "title": "Get in touch with the",
+    "titleSpan": "essence of peace.",
+    "quote": "Elegance is not being noticed, it's being remembered. We are here to listen and evolve with you.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "John Doe",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "hello@example.com",
+    "messageLabel": "Message",
+    "messagePlaceholder": "How can we help you find your zen?",
+    "send": "Send Message ↗",
+    "inquiries": "Inquiries",
+    "directLine": "Direct Line",
+    "studio": "Studio"
+  }
+}
